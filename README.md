@@ -7,4 +7,4 @@ To run type:
 
 in the terminal.
 
-The output file will contain the particles positions over the full duration of the simulation and can be visualised using VMD (see http://www.ks.uiuc.edu/Research/vmd/).  I only ran this program on University computers with VMD pre-installed.
+The output file will contain the particles positions over the full duration of the simulation and can be visualised using VMD (see http://www.ks.uiuc.edu/Research/vmd/).
